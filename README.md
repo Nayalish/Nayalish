@@ -1,5 +1,8 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/04/63/37/51/360_F_463375173_vBKRkUbVoCuS9lpUmhdfCc13pprPr148.jpg)](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif)
-<h1 align="center">Hi 👋, I'm Muhammad Nayalish</h1>
+![MasterHead](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif)
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Muhammad+Nayalish+👨‍🎓;I'm+a+Software+Developer+👩‍💻" />
+</h1>
+
 <h3 align="center">Software Developer | Problem Solver | Technology Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
